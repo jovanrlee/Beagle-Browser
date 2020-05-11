@@ -1,6 +1,6 @@
 ## Beagle Browser
 
-Welcoem to the beagle browser homepage. You can view our privacy policy here [Privacy policy on GitHub](https://github.com/DijonLee/Beagle-Browser/edit/master/PrivacyPolicy.md)
+Welcoem to the beagle browser homepage. You can view our privacy policy here [Privacy policy on GitHub](https://github.com/DijonLee/Beagle-Browser/blob/master/PrivacyPolicy)
 
 
 ### Versions
@@ -16,4 +16,4 @@ Welcoem to the beagle browser homepage. You can view our privacy policy here [Pr
 
 ### Support or Contact
 
-Having trouble with Beagle Browser? Come and [contact support](https://github.com/contact) and lets sort it out.
+Having trouble with Beagle Browser? Have suggestions? Come and [contact support](https://github.com/contact) shoot me a message.
