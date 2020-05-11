@@ -16,4 +16,4 @@ Welcoem to the beagle browser homepage. You can view our privacy policy here [Pr
 
 ### Support or Contact
 
-Having trouble with Beagle Browser? Have suggestions? Come and [open a ticket](https://github.com/DijonLee/Beagle-Browser/issues) or [send me a email](jovangiannilee------------@----------gmail.com)
+Having trouble with Beagle Browser? Have suggestions? Come and [open a ticket](https://github.com/DijonLee/Beagle-Browser/issues) or [send me a email](jovangiannilee------DELETE-DASHES------@gmail.com)
