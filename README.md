@@ -1,6 +1,6 @@
 ## Beagle Browser
 
-Welcoem to the beagle browser homepage. You can view our privacy policy here [Privacy policy on GitHub](https://github.com/DijonLee/Beagle-Browser/blob/master/PrivacyPolicy)
+Welcome to the beagle browser homepage. You can view the privacy policy [here](https://github.com/DijonLee/Beagle-Browser/blob/master/PrivacyPolicy)
 
 
 ### Versions
